@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ActiveSupport	.\test\test_helper.rb	/^class ActiveSupport::TestCase$/;"	c
+Application	.\config\application.rb	/^  class Application < Rails::Application$/;"	c	class:RailsinstallerDemo
+ApplicationController	.\app\controllers\application_controller.rb	/^class ApplicationController < ActionController::Base$/;"	c
+ApplicationHelper	.\app\helpers\application_helper.rb	/^module ApplicationHelper$/;"	m
+BrowsingTest	.\test\performance\browsing_test.rb	/^class BrowsingTest < ActionDispatch::PerformanceTest$/;"	c
+RailsinstallerDemo	.\config\application.rb	/^module RailsinstallerDemo$/;"	m
+WelcomeController	.\app\controllers\welcome_controller.rb	/^class WelcomeController < ApplicationController$/;"	c
+WelcomeControllerTest	.\test\functional\welcome_controller_test.rb	/^class WelcomeControllerTest < ActionController::TestCase$/;"	c
+WelcomeHelper	.\app\helpers\welcome_helper.rb	/^module WelcomeHelper$/;"	m
+WelcomeHelperTest	.\test\unit\helpers\welcome_helper_test.rb	/^class WelcomeHelperTest < ActionView::TestCase$/;"	c
+about	.\public\index.html	/^      function about() {$/;"	f
+index	.\app\controllers\welcome_controller.rb	/^  def index$/;"	f	class:WelcomeController
+test_homepage	.\test\performance\browsing_test.rb	/^  def test_homepage$/;"	f	class:BrowsingTest
